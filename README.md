@@ -14,6 +14,48 @@ This project demonstrates practical implementation of React.js concepts, API int
 
 ---
 
+
+# 🔗 Live Demo
+
+Live Website:
+
+https://saikumar-009.github.io/Recipe-Finder/
+
+---
+
+# 💻 GitHub Repository
+
+Repository Link:
+
+https://github.com/saikumar-009/recipe-finder
+
+---
+
+# 📸 Screenshots
+
+## Home Page
+
+![Home](./src/screenshots/home.png)
+
+---
+
+## Search Results
+
+![search](./src/screenshots/search.png)
+
+---
+
+## Recipe Details
+
+![deatilesrecipe](./src/screenshots/deatilesrecipe.png)
+
+---
+
+## Dark Mode
+![darkmode](./src/screenshots/darkmode.png)
+
+---
+
 # ✨ Features
 
 ### 🔍 Recipe Search
@@ -74,28 +116,39 @@ Recipe results update instantly based on user search input.
 
 ---
 
-# 📸 Screenshots
+# ⚙️ Installation Guide
 
-## Home Page
+Follow the steps below to run the project locally.
 
-![Home](./src/screenshots/home.png)
+## Step 1: Clone Repository
 
----
+```bash
+git clone https://github.com/yourusername/recipe-finder.git
+```
 
-## Search Results
+## Step 2: Navigate to Project Directory
 
-![Home](./screenshots/search.png)
+```bash
+cd recipe-finder
+```
 
----
+## Step 3: Install Dependencies
 
-## Recipe Details
+```bash
+npm install
+```
 
-![Home](./screenshots/deatilesrecipe.png)
+## Step 4: Start Development Server
 
----
+```bash
+npm start
+```
 
-## Dark Mode
-![Home](./screenshots/darkmode.png)
+The application will start on:
+
+```bash
+http://localhost:3000
+```
 
 ---
 
@@ -132,41 +185,7 @@ recipe-finder/
 
 ---
 
-# ⚙️ Installation Guide
 
-Follow the steps below to run the project locally.
-
-## Step 1: Clone Repository
-
-```bash
-git clone https://github.com/yourusername/recipe-finder.git
-```
-
-## Step 2: Navigate to Project Directory
-
-```bash
-cd recipe-finder
-```
-
-## Step 3: Install Dependencies
-
-```bash
-npm install
-```
-
-## Step 4: Start Development Server
-
-```bash
-npm start
-```
-
-The application will start on:
-
-```bash
-http://localhost:3000
-```
-
----
 
 # 🚀 How It Works
 
@@ -241,18 +260,6 @@ This project helped me improve my understanding of:
 
 ---
 
-# 💼 Resume Highlights
-
-### Recipe Finder Web Application
-
-**Technologies:** React.js, JavaScript, CSS3, Fetch API
-
-- Developed a responsive Recipe Finder application using React.js and external API integration.
-- Implemented dynamic recipe search functionality with real-time data fetching.
-- Added dark mode, responsive design, and error handling to improve user experience.
-- Utilized React Hooks and component-based architecture for efficient state management.
-
----
 
 # 🚀 Future Improvements
 
@@ -269,34 +276,19 @@ Planned enhancements for future versions:
 
 ---
 
-# 🔗 Live Demo
-
-Live Website:
-
-https://your-live-demo-link.com
-
----
-
-# 💻 GitHub Repository
-
-Repository Link:
-
-https://github.com/yourusername/recipe-finder
-
----
 
 # 👨‍💻 Author
 
-Name: Your Name
+Name: ALUPANA SAI
 
 GitHub:
-https://github.com/yourusername
+https://github.com/saikumar-009
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/alupanasai/
 
 Email:
-yourmail@example.com
+alupanasai3535@gmail.com
 
 ---
 
