@@ -78,7 +78,7 @@ Recipe results update instantly based on user search input.
 
 ## Home Page
 
-![Home](./screenshots/home.png)
+![Home](./src/screenshots/home.png)
 
 ---
 
