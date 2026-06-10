@@ -116,76 +116,6 @@ Recipe results update instantly based on user search input.
 
 ---
 
-# ⚙️ Installation Guide
-
-Follow the steps below to run the project locally.
-
-## Step 1: Clone Repository
-
-```bash
-git clone https://github.com/yourusername/recipe-finder.git
-```
-
-## Step 2: Navigate to Project Directory
-
-```bash
-cd recipe-finder
-```
-
-## Step 3: Install Dependencies
-
-```bash
-npm install
-```
-
-## Step 4: Start Development Server
-
-```bash
-npm start
-```
-
-The application will start on:
-
-```bash
-http://localhost:3000
-```
-
----
-
-# 📂 Project Structure
-
-```bash
-recipe-finder/
-│
-├── public/
-│
-├── src/
-│   │
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── SearchBar.jsx
-│   │   ├── RecipeCard.jsx
-│   │   └── RecipeDetails.jsx
-│   │
-│   ├── pages/
-│   │   └── Home.jsx
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.js
-│   │
-│   └── assets/
-│
-├── screenshots/
-│
-├── package.json
-│
-└── README.md
-```
-
----
-
-
 
 # 🚀 How It Works
 
@@ -259,6 +189,78 @@ This project helped me improve my understanding of:
 - Git and GitHub Workflow
 
 ---
+
+# ⚙️ Installation Guide
+
+Follow the steps below to run the project locally.
+
+## Step 1: Clone Repository
+
+```bash
+git clone https://github.com/yourusername/recipe-finder.git
+```
+
+## Step 2: Navigate to Project Directory
+
+```bash
+cd recipe-finder
+```
+
+## Step 3: Install Dependencies
+
+```bash
+npm install
+```
+
+## Step 4: Start Development Server
+
+```bash
+npm start
+```
+
+The application will start on:
+
+```bash
+http://localhost:3000
+```
+
+---
+
+# 📂 Project Structure
+
+```bash
+recipe-finder/
+│
+├── public/
+│
+├── src/
+│   │
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── SearchBar.jsx
+│   │   ├── RecipeCard.jsx
+│   │   └── RecipeDetails.jsx
+│   │
+│   ├── pages/
+│   │   └── Home.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.js
+│   │
+│   └── assets/
+│
+├── screenshots/
+│
+├── package.json
+│
+└── README.md
+```
+
+---
+
+
+
 
 
 # 🚀 Future Improvements
